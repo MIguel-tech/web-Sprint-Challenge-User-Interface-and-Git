@@ -144,4 +144,62 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.teal {
+    background-color: teal !important
+}
+
+.gold {
+    background-color: gold !important
+}
+
+.cadetblue {
+    background-color: cadetblue !important
+}
+
+.coral {
+    background-color: coral !important
+}
+
+.crimson {
+    background-color: crimson !important
+}
+
+.forestgreen {
+    background-color: forestgreen !important
+}
+
+.darkorchid {
+    background-color: darkorchid !important
+}
+
+.hotpink {
+    background-color: hotpink !important
+}
+
+.indigo {
+    background-color: indigo !important
+}
+
+.dodgerblue {
+    background-color: dodgerblue !important
+}
+
+/* About CSS */
+
+.tags {
+    width:40%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-top: 2%;
+    margin-left:30%;
+  }
+
+  .tags a{
+    padding-top: 3%;
+    color:black;
+    text-decoration:none;
+}
 
